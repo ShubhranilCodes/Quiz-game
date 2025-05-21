@@ -1,2 +1,3 @@
 # Quiz-game
-My first python project
+My first ever python project
+Any feedback or tips are appreciated :)
